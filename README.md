@@ -6,9 +6,9 @@ The specific objectives of this project are:
 
 · View all spots based on categories (Hotels, Restaurants and Points of Interest) and make their own favorite spots list
 
-· Tourists can see all the nearest spots on the map according to their current location.
+· Ability to view the nearest spots on the map according to their current location.
 
-· To provide a user with public transport navigation
+· To provide tourists with public transport navigation
 
 · To give the user a virtual tour of a point of interest
 
