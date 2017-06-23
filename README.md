@@ -1,1 +1,17 @@
-Mobile tourism guides can provide a tourist with ubiquitous access to tourism information at anytime and from anywhere. To this end, an application that can guide tourists with valuable information can be very useful. The aim of this application is to provide tourism and geographical services that encourage tourists to travel around the city and reduce the effort and time to organize the city trip. It offers access to features such as detailed travel directory, personalized daily itineraries that are automatically generated based on visitors’ preferences, popularity of the points of interest, operating hours and location, Detailed maps and location-based navigation by public transport and micro-location based push notifications that provide rich and in depth information about the destination
+Smart Tourist is an android application which provides a tourist who is new to Dubai with all the information he/she may need to make their stay in Dubai as comfortable as possible
+
+The specific objectives of this project are:
+
+· To enable a user to create an itinerary based on his/her interests, budget and duration of visit
+
+· View all spots based on categories (Hotels, Restaurants and Points of Interest) and make their own favorite spots list
+
+· Tourists can see all the nearest spots on the map according to their current location.
+
+· To provide a user with public transport navigation
+
+· To give the user a virtual tour of a point of interest
+
+· Social media integration
+
+· Using beacons to provide users with information about a point of interest when they reach there
